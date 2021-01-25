@@ -1,4 +1,4 @@
-# glorian-React-cours
+# Glorian révision fondamentaux javascript 
 
 Rappel sur le POO (programmation Orientée Object)
 
